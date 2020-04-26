@@ -41,3 +41,6 @@ Each of these editors do have some if not all of the features that we talked abo
 ##### An IDE (Integrated Development Environment) is really a suite of different software all coming together. An IDE is a text editor, a file manager, a compiler, and a debugger all in one software package.
 
 ### you can find more specs. in this [link](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
+
+
+### you can find in this image some cammands that be used in terminal ![Cheat Sheet](https://www.git-tower.com/blog/media/pages/posts/command-line-cheat-sheet/1073300074-1586415841/command-line-cheat-sheet-large01.png)
