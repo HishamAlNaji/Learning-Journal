@@ -21,4 +21,4 @@
 
 [growth mindset](https://www.renaissance.com/edwords/growth-mindset/)
 
-# By Hisham Al-Naji
+# By Hisham Al-Naji [hisham alnaji](https://github.com/HishamAlNaji)
