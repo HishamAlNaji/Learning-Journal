@@ -1,5 +1,5 @@
 # **Learning-Journal**
-##summary of the topics
+## summary of the topics
 
 #### markdown is a way or a tool to make some decorations on web text y using a **non-alphabetic** characters . its make the edit more easier , you can replace tags to a ( # or * ) to make the editing that you want .
 
