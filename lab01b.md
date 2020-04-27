@@ -16,7 +16,6 @@
 #### 4. Criticism
 #### 5. Success of others
 
-
 ###### and here is a link that will help you to know more about the growth mindset :
 
 [growth mindset](https://www.renaissance.com/edwords/growth-mindset/)

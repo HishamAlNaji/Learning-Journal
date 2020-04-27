@@ -9,8 +9,6 @@
    2. Centralized Version Control : This system entails a single server storing all changes and file versions, which can be accessed by various clients.
    3. Distributed Version Control : the DVCS allows for multiple mirrored repositories, programmers working in teams can collaborate with each other in various ways to complete a joint project, which enables the use of various simultaneous workflows.
    
-
-
 ## NOW , Lets talk about a DVCS that named *git* :
 
 ### definition : 
@@ -24,6 +22,5 @@
       3. Download and compile the source code.
       
 ##### here is a [link](https://git-scm.com/download) that you can download git for win , mac and linux .
-
 
 #### For mor info. about how git works and some commands that can be used open this [link](https://www.udemy.com/blog/git-tutorial-a-comprehensive-guide/) .
