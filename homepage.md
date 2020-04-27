@@ -6,7 +6,7 @@
 
 | page        | Description |
 | ----------- | ----------- |
-| 1           | [growth mindset](https://github.com/HishamAlNaji/Learning-Journal/blob/master/lab01b.md)      |
+| 1           | [growth mindset](https://hishamalnaji.github.io/Learning-Journal/lab01b) |
 | 2           | how to choose text editor        |
 | 3           | VCS        |
 | 4           | about learning journal        |
