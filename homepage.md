@@ -6,7 +6,7 @@
 
 | page        | Description |
 | ----------- | ----------- |
-| 1           |  growth mindset      |
+| 1           | [growth mindset](Learning-Journal/lab01b.md)      |
 | 2           | how to choose text editor        |
 | 3           | VCS        |
 | 4           | about learning journal        |
