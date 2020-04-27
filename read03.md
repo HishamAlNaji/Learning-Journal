@@ -24,3 +24,6 @@
       3. Download and compile the source code.
       
 ##### here is a [link](https://git-scm.com/download) that you can download git for win , mac and linux .
+
+
+#### For mor info. about how git works and some commands that can be used open this [link](https://www.udemy.com/blog/git-tutorial-a-comprehensive-guide/) .
