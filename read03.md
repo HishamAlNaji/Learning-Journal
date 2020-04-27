@@ -18,3 +18,9 @@
 
 ![you can see a in the photo the machanism that how git works](https://www.udemy.com/blog/wp-content/uploads/2015/08/image066.png)
 
+#### You can be installed in three ways:
+      1. Install as a package
+      2. Install via another installer
+      3. Download and compile the source code.
+      
+##### here is a [link](https://git-scm.com/download) that you can download git for win , mac and linux .
