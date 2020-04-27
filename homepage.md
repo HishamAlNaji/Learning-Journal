@@ -6,8 +6,8 @@
 
 | page        | Description |
 | ----------- | ----------- |
-| 1           | [growth mindset](https://hishamalnaji.github.io/Learning-Journal/lab01b) |
-| 2           | how to choose text editor        |
-| 3           | VCS        |
-| 4           | about learning journal        |
+| 1           | growth mindset |
+| 2           | how to choose text editor  |
+| 3           | VCS   |
+| 4           | about learning journal   |
 
