@@ -34,5 +34,23 @@ color: #665544;}
 
 #### CSS Selectors : There are many different types of CSS selector that allow you to target rules to specific elements in an HTML document.
 
-![Examples for some selectors](https://onedrive.live.com/?cid=04EEAC4571B1944D&id=04EEAC4571B1944D%211599&parId=root&o=OneUp)
+![Examples for some selectors](https://i.pinimg.com/originals/0a/6b/80/0a6b80d7c9c33f6f6f885216a766ebb5.png)
+
+## Ok lets talk about the color design :
+
+#### "Color can really bring your pages to life."
+
+#### The color property allows you to specify the color of text inside an element. You can specify any color in CSS in one of three ways:
+     1. rgb values : These express colors in terms of how much red, green and blue are used to make it up. For example: rgb(100,100,90)
+     2. hex codes : These are six-digit codes that represent the amount of red, green and blue in a color, preceded by a pound or hash # sign. For example: #ee3e80
+     3. color names :There are 147 predefined color names that are recognized by browsers. For example: DarkCyan.
+
+#### Here is a [link](https://htmlcolorcodes.com/color-chart/) that can help you pick a color for your site .
+
+this information refrenced by : HTML & CSS Design and Build Websites By Jon Duckett .
+
+
+
+
+
 
